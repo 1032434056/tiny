@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>装小蜜家装监理-互联网家装监理团队</title>
+		<link rel="icon" href="../images/zhuangxiaomi.ico" type="image/x-icon" /> 
+		<link rel="shortcut icon" href="../images/zhuangxiaomi.ico" type="image/x-icon" />
+		<link rel="stylesheet" type="text/css" href="../css/common.css" />
+		<link rel="stylesheet" href="../css/style-sj.css" type="text/css" />
+	</head>
+	<body>
+		<?php
+        	include("head.php");
+    	?> 
+    	<div class="supervision-team-sj-wrap">
+    		<!-- 人物大头像 -->
+			<div class="bigpic-sj">
+				<img src="../images/demo/team1.png" alt="">
+				<img src="../images/demo/team2.png" alt="">
+				<img src="../images/demo/team3.png" alt="">
+				<img src="../images/demo/team4.png" alt="">
+				<img src="../images/demo/team5.png" alt="">
+				<img src="../images/demo/team6.png" alt="">
+				<img src="../images/demo/team7.png" alt="">
+				<img src="../images/demo/team8.png" alt="">
+				<img src="../images/demo/team9.png" alt="">
+				<img class="show-sj" src="../images/demo/team10.png" alt="">
+				<img src="../images/demo/team11.png" alt="">
+				<img src="../images/demo/team12.png" alt="">
+				<img src="../images/demo/team13.png" alt="">
+				<img src="../images/demo/team14.png" alt="">
+				<img src="../images/demo/team15.png" alt="">
+				<img src="../images/demo/team16.png" alt="">
+				<img src="../images/demo/team17.png" alt="">
+				<img src="../images/demo/team18.png" alt="">
+				<img src="../images/demo/team19.png" alt="">
+			</div>
+			<!-- 下端人物头像 -->
+			<div class="smallpic-sj">
+				<img src="../images/demo/team1.png" alt="" class="team1-sj">
+				<img src="../images/demo/team2.png" alt="" class="team2-sj">
+				<img src="../images/demo/team3.png" alt="" class="team3-sj">
+				<img src="../images/demo/team4.png" alt="" class="team4-sj">
+				<img src="../images/demo/team5.png" alt="" class="team5-sj">
+				<img src="../images/demo/team6.png" alt="" class="team6-sj">
+				<img src="../images/demo/team7.png" alt="" class="team7-sj">
+				<img src="../images/demo/team8.png" alt="" class="team8-sj">
+				<img src="../images/demo/team9.png" alt="" class="team9-sj">
+				<img src="../images/demo/team10.png" alt="" class="team10-sj">
+				<img src="../images/demo/team11.png" alt="" class="team11-sj">
+				<img src="../images/demo/team12.png" alt="" class="team12-sj">
+				<img src="../images/demo/team13.png" alt="" class="team13-sj">
+				<img src="../images/demo/team14.png" alt="" class="team14-sj">
+				<img src="../images/demo/team15.png" alt="" class="team15-sj">
+				<img src="../images/demo/team16.png" alt="" class="team16-sj">
+				<img src="../images/demo/team17.png" alt="" class="team17-sj">
+				<img src="../images/demo/team18.png" alt="" class="team18-sj">
+				<img src="../images/demo/team19.png" alt="" class="team19-sj">
+			</div>
+			<!-- 人物信息 -->
+			<div class="inf-sj" id="inf-sj">
+				<div class="inf1-sj">
+					<h2>
+						<em>高强</em>
+						<span>【家装监理】</span>
+					</h2>
+					<p>级 别：☆☆☆</p>
+					<p>资 质：家装监理</p>
+					<p>2009年 实创装饰 工程主管</p>
+					<p>2015年 搜房网 工程监理</p>
+					<p>2015年 装小蜜监理</p>
+					<p>从业6年，分别在实创装饰，搜房网从事监理工作</p>
+					<p>资深装修监理，基础扎实，经验丰富。</p>
+				</div>
+				<div class="inf2-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf3-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf4-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf5-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf6-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf7-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf8-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf9-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf10-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf11-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf12-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf13-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf14-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf15-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf16-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf17-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf18-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+				<div class="inf19-sj">
+					<h2>
+						<em>李杨</em>
+						<span>【家装监理】</span>
+						<p>级 别：☆☆☆</p>
+						<p>资 质：家装监理</p>
+						<p>2005年 东方家园</p>
+						<p>2010年 业之峰</p>
+						<p>2012年 实创装饰</p>
+						<p>2014年 装小蜜监理</p>
+						<p>从业10年，分别在东方家园，业之峰，实创装饰从事监理工作</p>
+					</h2>
+				</div>
+			</div>
+			<!-- 侧栏荣誉墙 -->
+			<div class="honor-sj">
+				<img src="../images/demo/honor1.png" alt="">
+				<h2>所获荣誉</h2>
+				<p>HONOR</p>
+			</div>
+			<!-- 荣誉变大 -->
+			<div class="honorbig-sj">
+				<img src="../images/demo/honor2.png" alt="">
+				<span>X</span>
+			</div>
+			<!-- 资质证书 -->
+			<div class="certifi-sj">
+				<img src="../images/demo/certifi1.png" alt="">
+				<h2>资质证书</h2>
+				<p>CERTIFICATE</p>
+			</div>
+			<!-- 证书变大 -->
+			<div class="certifibig-sj">
+				<img src="../images/demo/certifi2.png" alt="">
+				<span>X</span>
+			</div>
+			<!-- 蒙蒙黑 -->
+			<div class="mark-sj"></div>
+    	</div>
+		
+		<?php 
+			include("backtop.php");
+		?>
+	</body>
+	<script type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
+	<script>
+	// 人物描述小块的颜色
+		var inf_sj = document.getElementById("inf-sj").getElementsByTagName("div");
+		var infcolor_sj = 900000;
+		for (var i = 0; i < inf_sj.length; i++) {
+		 	inf_sj[i].style.backgroundColor = "#" + (infcolor_sj - 27371*i);	 	
+		 } 
+		 // 小头像鼠标移入事件
+		$(".smallpic-sj img").mouseover(function() {
+			$(this).stop(true).animate({"height" : "182px"},10).siblings().stop(true).animate({"height" : "162px"}, 10).parent().siblings(".bigpic-sj").children().eq($(this).index()).addClass("show-sj").siblings().removeClass("show-sj").parent().siblings(".inf-sj").children().eq($(this).index()).css({"display" : "block"}).siblings().css({"display" :"none"});
+			for (var i = $(this).index(); i >= 0; i--) {
+				$(".smallpic-sj img").eq(i).css({"z-index" : 19+i-$(this).index()});
+				if (i == $(this).index() - 1) {
+					$(".smallpic-sj img").eq(i).stop(true).animate({"height" : "175px"},10);
+				}
+				if (i == $(this).index() - 2) {
+					$(".smallpic-sj img").eq(i).stop(true).animate({"height" : "167px"},10);
+				}
+			}
+			for (var i = $(this).index()+1; i < 19; i++) {
+				$(".smallpic-sj img").eq(i).css({"z-index" : 19+$(this).index()-i});
+				if (i == $(this).index() + 1) {
+					$(".smallpic-sj img").eq(i).stop(true).animate({"height" : "175px"},10);
+				}
+				if (i == $(this).index() + 2) {
+					$(".smallpic-sj img").eq(i).stop(true).animate({"height" : "167px"},10);
+				}
+			}
+			
+
+		})	
+		// 荣誉墙的变大变小处理
+		$(".honor-sj").click(function() {
+			$(".mark-sj").css({"display" : "block"}).siblings(".honorbig-sj").fadeIn(1000).children("span").css({"display" : "block"});
+		});
+		$(".honorbig-sj").click(function() {
+			$(".mark-sj").css({"display" : "none"}).siblings(".honorbig-sj").css({"display" : "none"}).children("span").css({"display" : "none"})
+		})
+		// 资质证书的变大变小处理
+		$(".certifi-sj").click(function() {
+			$(".mark-sj").css({"display" : "block"}).siblings(".certifibig-sj").fadeIn(1000).children("span").css({"display" : "block"});
+		});
+		$(".certifibig-sj").click(function() {
+			$(".mark-sj").css({"display" : "none"}).siblings(".certifibig-sj").css({"display" : "none"}).children("span").css({"display" : "none"});
+		})
+	</script>
+</html>
